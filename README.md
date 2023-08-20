@@ -8,3 +8,5 @@ Learning CSS effects
 - texteffect3.html is about Vertical text
 
 - texteffect4.html is about Word Wrap property
+
+- textshaddow.html is about Text Shadow property
