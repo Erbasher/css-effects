@@ -16,3 +16,5 @@ Learning CSS effects
 - transform2.html + transform2.css to create a box with nice transform and transition effects
 
 - WorkLab files transform-lab.html and transform-lab-css about use of transform and transition properties
+
+- Animation, animation2 and animation3 with same name CSS files added
